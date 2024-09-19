@@ -2,3 +2,20 @@ body {
     text-align: center; 
     background-color: LemonChiffon
 }
+h1 {
+    color: Crimson;
+}
+h3 {
+    color: Crimson;
+}
+.border {
+    border-style: solid;
+    border-color: LightBlue;
+    overflow: auto;
+    display: inline-block;
+    width: 510px
+    
+}
+#audio-border {
+    width: 310px
+}
